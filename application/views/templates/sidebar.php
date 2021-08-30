@@ -19,7 +19,7 @@
 
     <!-- Nav Item - Pages Collapse Menu -->
     <li class="nav-item">
-        <a class="nav-link" href="<?= base_url('arsip/show'); ?>">
+        <a class="nav-link" href="<?= base_url('about'); ?>">
             <i class="fas fa-info"></i>
             <span>About</span>
         </a>
